@@ -72,7 +72,7 @@ class User_Page
 
     /**
      * Используется для подключения HTML файла ./partials/user_page_table.html
-     * и наполнения его данных из БД
+     * и наполнения его данными из БД    
      * @param array<string|int> $d
      * @return array<string>
      */
